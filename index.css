@@ -1,3 +1,6 @@
+.container{
+  margin-left: 10%;
+}
 .project1{
   width: 500px;
 }
@@ -6,6 +9,21 @@
 }
 .photographer{
   width: 500px;
+}
+.title{
+  font-size: 50px;
+  font-family: 'Noto Sans', sans-serif;
+}
+.name{
+  margin: 74px;
+  margin-top: 60px;
+  margin-left: 50px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 470px;
+  padding-left: 30px;
+  border: 2px solid grey;
+  border-radius: 20px;
 }
 .l{
   color: blue;
@@ -31,9 +49,20 @@ nav{
 nav ul li {
   display: inline;
   padding: 25px;
+  padding-top: 20px;
 }
 nav ul li a{
   text-decoration: none;
   color: black;
   font-size: 18px;
+}
+.img h2{
+  color: blue;
+}
+h4{
+  color: blue;
+  font-size: 24px;
+}
+.img{
+
 }
