@@ -59,9 +59,14 @@ nav ul li a{
 .img h2{
   color: blue;
 }
-h4{
+.h4{
   color: blue;
   font-size: 24px;
+  text-decoration: underline;
+}
+.green{
+  color: green;
+  margin-top: 0;
 }
 .img{
 
