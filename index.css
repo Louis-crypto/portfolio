@@ -25,3 +25,9 @@
 .intro{
   display: flex;
 }
+nav{
+  margin-top: 15px;
+}
+nav ul li {
+  display: inline;
+}
