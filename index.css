@@ -22,12 +22,6 @@
 .s{
   color: red;
 }
-.title{
-  float: left;
-}
-.name{
-  float: left;
-}
-nav{
-  margin: 20px;
+.intro{
+  display: flex;
 }
