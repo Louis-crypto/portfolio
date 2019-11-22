@@ -99,4 +99,6 @@ imgcaption a {
   color:rgb(3, 3, 151);
   text-decoration: none;
 }
-imgcaption a: 
+imgcaption a:hover{
+  text-decoration: underline;
+}
