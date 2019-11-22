@@ -7,3 +7,27 @@
 .photographer{
   width: 500px;
 }
+.l{
+  color: blue;
+}
+.o{
+  color: red;
+}
+.u{
+  color: rgb(236, 213, 77);
+}
+.i{
+  color: green;
+}
+.s{
+  color: red;
+}
+.title{
+  float: left;
+}
+.name{
+  float: left;
+}
+nav{
+  margin: 20px;
+}
