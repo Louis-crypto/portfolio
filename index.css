@@ -118,6 +118,10 @@ nav ul li a:hover{
 }
 footer{
   background-color: rgb(224, 217, 217);
+  justify-content: center;
+}
+footer h4{
+  margin-left: 7px;
 }
 imgcaption a {
   color:rgb(3, 3, 151);
