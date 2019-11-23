@@ -3,7 +3,7 @@
 #### date: 23.11.2019
 ## Description
 This is my personal portfolio, It talks about me, what am currently doing and what am planning to do.
-It highlights projects I have done, this is the link to my [Portfolio] (https://louis-crypto.github.io/portfolio.github.io/).
+It highlights projects I have done, this is the link to my https://louis-crypto.github.io/portfolio.github.io/
 ### Technologies used
 * HTML
 * CSS
