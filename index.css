@@ -141,6 +141,7 @@ footer{
 footer h4{
   text-align: center;
   text-transform: uppercase;
+  padding: 5px;
 }
 footer ul li{
   text-align: center;
